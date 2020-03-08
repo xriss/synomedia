@@ -1,0 +1,23 @@
+{
+  "name": "synomedia",
+  "version": "0.0.0",
+  "description": "Sort and rename media files.",
+  "main": "js/cmd.js",
+  "dependencies": {
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "js/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xriss/synomedia.git"
+  },
+  "author": "Xriss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xriss/synomedia/issues"
+  },
+  "homepage": "https://github.com/xriss/synomedia#readme"
+}
